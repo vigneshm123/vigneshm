@@ -4,5 +4,5 @@ compiler:
 - clang
 - gcc
 script:
-- gcc -o training training.c // we can use gcc instead of clang too
-- ./training 
+- gcc -o trainingfile trainingfile.c // we can use gcc instead of clang too
+- ./trainingfile
